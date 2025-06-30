@@ -70,4 +70,3 @@ Designed and proposed an IoT model to automate garbage collection with sensor-tr
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=HemilKothari&icon=0&color=6)](https://visitcount.itsvg.in)
