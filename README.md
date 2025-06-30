@@ -67,7 +67,7 @@ Designed and proposed an IoT model to automate garbage collection with sensor-tr
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HemilKothari&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=HemilKothari&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&order_by=stars)
 
 ---
 
